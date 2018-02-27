@@ -33,10 +33,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TheSin-/terracoin-util.git"
+    "url": "git+https://github.com/terracoin/terracoin-util.git"
   },
   "bugs": {
-    "url": "https://github.com/TheSin-/terracoin-util/issues"
+    "url": "https://github.com/terracoin/terracoin-util/issues"
   },
-  "homepage": "https://github.com/TheSin-/terracoin-util#readme"
+  "homepage": "https://github.com/terracoin/terracoin-util#readme"
 }
